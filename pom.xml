@@ -12,7 +12,7 @@
         <dependency>
             <groupId>com.facebook.business.sdk</groupId>
             <artifactId>facebook-java-business-sdk</artifactId>
-            <version>4.0.8</version>
+            <version>5.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>

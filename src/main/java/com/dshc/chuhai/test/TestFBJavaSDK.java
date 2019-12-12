@@ -8,7 +8,7 @@ import com.facebook.ads.sdk.Campaign;
 import java.util.Arrays;
 
 public class TestFBJavaSDK {
-    private static String accesstoken = "EAAKpzJnM2LoBANOxZAAPtISTbZCvc8IoZADplccT3y5VZAZCa0dbPO3pF582vivYuvtMB8NMcrAVIgOKCYAGlIFv0PHDRxYzM1CKiKr5vnJJYrgKEtBeT4PCc5kFpBCJjyo5G3xDmDmF3bDRUbRdtJsVWQKYT8fZCb3CFbJkdI4Et8vU9iV3KZBJ7IWT2bli8ZAbxGuyUt4U66pYZAxVT2Y1g";
+    private static String accesstoken = "EAAKpzJnM2LoBANIYnv2ZAIVFbqQ7prZAZBMUy3siWVfKZC39XdMbqIuIKXfTdXztuzNwcgGpssy0YZCYjxbnsUbQvTQzOHdR2ZCvcOQnqycKnN8yGrssOgb8ZAcQxvYb7HsMxReeciju0GM6PpKmAdLWgnAzwysKBHCId9Kbmk8C45p89TU6zgsOM5OBVUHCvRvurIx7XOl6OzWyVeFKgw3ICJQBKNnowtxPSaLXfAncoZBo2DgDLmSEJCMam1ndjAAZD";
 
     private static String appsecret = "ccc29740c3b7767b7d17741f60dc4ade";
 
