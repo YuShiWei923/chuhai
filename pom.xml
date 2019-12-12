@@ -14,6 +14,11 @@
             <artifactId>facebook-java-business-sdk</artifactId>
             <version>4.0.8</version>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
+        </dependency>
     </dependencies>
 
 </project>
